@@ -1,0 +1,25 @@
+{
+  "name": "lubuto-library-file-server",
+  "version": "1.0.0",
+  "description": "file server for lubuto app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianmuks/lubuto-file-server.git"
+  },
+  "keywords": [
+    "LUBUTO"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianmuks/lubuto-file-server/issues"
+  },
+  "homepage": "https://github.com/brianmuks/lubuto-file-server#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
